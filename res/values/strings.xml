@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LibraryTest</string>
+    <string name="hello_world">Libray Fragment</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
